@@ -1,8 +1,8 @@
-# 项目简介
+## 项目简介
 跨越官网
 
 
-# 运行
+## 运行
 安装
 1 npm(cnpm) install 
 
@@ -14,29 +14,29 @@
 
 
 
-# 开发接口地址
+## 开发接口地址
 http://openapi-dev.kyepm.com
 
 举个栗子：http://openapi-dev.kyepm.com/router/rest?file_uploadFile
 
-# 生产接口地址
+## 生产接口地址
 https://open.ky-express.com
 
 举个栗子：https://open.ky-express.com/router/rest?file_uploadFile
 
 
 
-# 功能明细
+## 功能明细
 
 
 
-# 技术栈：Vue + Vuex + Vue-router + UI框架
+## 技术栈：Vue + Vuex + Vue-router + Element-UI
 > - Vue    : (https: //cn.vuejs.org/v2/guide/)
 > - Vue-Cli: (https: //cli.vuejs.org/zh/guide/) 
+> - UI: (http://element-cn.eleme.io/#/zh-CN/component/installation) 
 
 
-
-# 项目结构
+## 项目结构
 ```
 └── src
     ├── assets         资源文件
@@ -66,14 +66,24 @@ https://open.ky-express.com
 ```
 
 
-## 开发团队
-> - 负责部门：互联网部-前端组
-> - 负责人员：钱丙健
+## 团队
+
+### 开发
+> - 开发团队：互联网部-前端组
+> - 开发人员：钱丙健、黄顺兰、徐业奇
 > - 联系方式：15217979564(tel)  2167325279(QQ)  
 
+### 产品
+> - 产品团队：互联网部-官网
+> - 产品人员：陆西、徐剑锋
+> - 联系方式：18929380156(tel)  1053829472(QQ)  
 
+### UI
+> - 交互设计：高玉姣
+> - 视觉设计：童希、叶桂长
+> - 联系方式：18929380156(tel)  3198965305(QQ)  
 
-## 运营团队
-> - 负责部门：互联网部-官网产品线
-> - 负责人员：陆西
+### 运营
+> - 负责部门：广告中心
+> - 负责人员：孙宇翔
 > - 联系方式：18929380156(tel)  1053829472(QQ)  
