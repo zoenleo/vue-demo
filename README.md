@@ -1,10 +1,11 @@
 ## 项目简介
-跨越官网
+Vue 基础架构
 
 
 ## 运行
+npm(`yarn`)
 安装
-1 npm(cnpm) install 
+1 npm install 
 
 开发
 2 npm run serve
@@ -15,14 +16,14 @@
 
 
 ## 开发接口地址
-http://openapi-dev.kyepm.com
+https://www.xxx.com
 
-举个栗子：http://openapi-dev.kyepm.com/router/rest?file_uploadFile
+举个栗子：https://www.xxx.comrouter/rest
 
 ## 生产接口地址
-https://open.ky-express.com
+https://www.xxx.com
 
-举个栗子：https://open.ky-express.com/router/rest?file_uploadFile
+举个栗子：https://www.xxx.com/router/rest
 
 
 
@@ -68,22 +69,7 @@ https://open.ky-express.com
 
 ## 团队
 
-### 开发
-> - 开发团队：互联网部-前端组
-> - 开发人员：钱丙健、黄顺兰、徐业奇
-> - 联系方式：15217979564(tel)  2167325279(QQ)  
-
-### 产品
-> - 产品团队：互联网部-官网
-> - 产品人员：陆西、徐剑锋
-> - 联系方式：18929380156(tel)  1053829472(QQ)  
-
-### UI
-> - 交互设计：高玉姣
-> - 视觉设计：童希、叶桂长
-> - 联系方式：18929380156(tel)  3198965305(QQ)  
-
 ### 运营
 > - 负责部门：广告中心
-> - 负责人员：孙宇翔
-> - 联系方式：18929380156(tel)  1053829472(QQ)  
+> - 负责人员：xxx
+> - 联系方式：xxxxxxxxxxx(tel)  xxxxxxxxx(QQ)  
