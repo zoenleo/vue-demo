@@ -18,7 +18,7 @@ npm(`yarn`)
 ## 开发接口地址
 https://www.xxx.com
 
-举个栗子：https://www.xxx.comrouter/rest
+举个栗子：https://www.xxx.com/router/rest
 
 ## 生产接口地址
 https://www.xxx.com
