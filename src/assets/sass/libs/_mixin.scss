@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+//清楚浮动
+%clearfix {
+    &:after,
+    &:before {
+        content: '';
+        display: table;
+        font: 0/0 a;
+    }
+    &:after {
+        clear: both;
+    }
+}
